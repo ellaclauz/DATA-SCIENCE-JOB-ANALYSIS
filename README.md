@@ -24,7 +24,7 @@ In this step,  I  considered the following:  checked for missing values and null
 * Full time jobs is the most common employment type.
 * Year 2022 has the highest total salary and the highest number of remote employees.
 * Data Scientist, Data Engineer and Data Analyst respectively are the most popular job title.
-* Medium size company the more employees and has the highest total salary.
+* Medium size company has the most employees and has the highest total salary.
 * Senior experience level are the most in demand jobs.
 * The highest paid salary job title is Principal Data Engineer, followed by Financial Data Analyst.
 
